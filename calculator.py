@@ -22,4 +22,6 @@ def division(a, b):
 
 def sqr_number(a):
     return int(a) ** 0.5
-
+def sqr_num(a):
+    return int(a) ** 2
+    
